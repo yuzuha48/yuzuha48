@@ -8,4 +8,4 @@ I’m a software developer, passionate about exercising creativity within struct
 - ⚡ Fun fact: I was born in Japan, raised in Hawaii, and I'm currently living in Minnesota. The plan is to move to New York next!
 
 #### Programming Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,mysql,bootstrap,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,mysql,bootstrap,github,r&theme=light)](https://skillicons.dev)
