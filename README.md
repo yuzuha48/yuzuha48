@@ -1,6 +1,6 @@
 ## Hi, I'm Yuzuha! 👋
 
-I’m a software developer, passionate about exercising creativity within structure and organization, problem solving through critical thinking, and continuously learning and developing my skills.
+I’m passionate about exercising creativity within structure and organization, problem solving through critical thinking, and continuously learning and developing my skills.
 
 - ✈️ My most recent project is a travel itinerary sharing platform (I love traveling)!
 - 💬 I have a background in international studies, economics, and data science. 
