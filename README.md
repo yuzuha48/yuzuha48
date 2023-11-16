@@ -8,4 +8,4 @@ I’m passionate about exercising creativity within structure and organization, 
 - 📫 How to reach me: yuzuha48@gmail.com or [LinkedIn](https://www.linkedin.com/in/yuzuha-shibata/)
 
 #### Programming Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,mysql,bootstrap,github,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,mysql,js,html,css,bootstrap,github,r&theme=light)](https://skillicons.dev)
